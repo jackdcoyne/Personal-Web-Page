@@ -58,6 +58,12 @@ nav a {
     border-radius: 5px;
 }
 
+.image-description {
+    font-size: 14px; /* Adjust the font size as needed */
+    text-align: center; /* Center-align the image descriptions */
+    margin-top: -5px; /* Add some top margin for spacing */
+}
+
 @media screen and (max-width: 768px) {
     .main-container {
         flex-direction: column;
